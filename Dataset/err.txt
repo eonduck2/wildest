@@ -1,0 +1,6 @@
+﻿c:\Users\Administrator\Desktop\wild_aniaml_model\Dataset\images\A01_H29_C005_C_211106_1005_20S_000017.032.jpg
+c:\Users\Administrator\Desktop\wild_aniaml_model\Dataset\images\A01_H69_C009_C_211106_3003_20S_000006.262.jpg
+c:\Users\Administrator\Desktop\wild_aniaml_model\Dataset\images\A01_H69_C009_C_211106_3003_20S_000019.220.jpg
+c:\Users\Administrator\Desktop\wild_aniaml_model\Dataset\images\A01_H69_C009_C_211106_3012_20S_000015.455.jpg
+c:\Users\Administrator\Desktop\wild_aniaml_model\Dataset\images\A01_H69_C009_C_211106_3012_20S_000019.019.jpg
+c:\Users\Administrator\Desktop\wild_aniaml_model\Dataset\images\A01_H74_C090_C_181110_2006_19S_000000.540.jpg

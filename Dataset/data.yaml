@@ -1,0 +1,10 @@
+names:
+  - 고라니
+  - 노루
+  - 너구리
+  - 멧돼지
+  - 반달가슴곰
+nc: 5
+test: ../Dataset/test.txt
+train: ../Dataset/train.txt
+val: ../Dataset/valid.txt
