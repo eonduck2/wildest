@@ -46,7 +46,7 @@ def ensemble_predict(models, image_path):
 models = load_models(model_info)
 
 # 예측하고 싶은 이미지 파일 경로
-image_path = './Dataset/images/neoguri_train.jpg'
+image_path = './Dataset/images/A01_G12_G001_G_201215_1001_20S_000007.072.jpg'
 
 # 앙상블 예측
 predictions = ensemble_predict(models, image_path)
